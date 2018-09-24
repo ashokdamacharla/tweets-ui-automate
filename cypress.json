@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://twitter.com/login",
+    "viewportWidth": 1200,
+    "viewportHeight": 1000,
+    "defaultCommandTimeout": 20000,
+    
+    "ttWait": 10000
+}
